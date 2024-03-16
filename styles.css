@@ -1,0 +1,15 @@
+.card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  .library-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  #new-book-dialog {
+    display: none;
+  }
+  
